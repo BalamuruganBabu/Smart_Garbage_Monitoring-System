@@ -27,6 +27,7 @@ An IoT-based solution to enable smart and efficient waste management for urban e
 - Blynk alert setup integrated with ESP8266WiFi
 - Calibration and testing routines for all sensors
 
+
 ## 📚 Credits
 Developed by Balamurugan B and team  
 Final Year Project – Adithya Institute of Technology  
